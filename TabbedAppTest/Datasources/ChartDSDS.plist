@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>objects</key>
+	<array>
+        
+        <dict>
+            <key>outcomes</key>
+<integer>12000</integer>
+            <key>incomes</key>
+<integer>1000</integer>
+            <key>month</key>
+<string>Jan</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbc9</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>11000</integer>
+            <key>incomes</key>
+<integer>2000</integer>
+            <key>month</key>
+<string>Feb</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbca</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>10000</integer>
+            <key>incomes</key>
+<integer>3000</integer>
+            <key>month</key>
+<string>Mar</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbcb</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>9000</integer>
+            <key>incomes</key>
+<integer>4000</integer>
+            <key>month</key>
+<string>Abr</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbcc</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>8000</integer>
+            <key>incomes</key>
+<integer>5000</integer>
+            <key>month</key>
+<string>May</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbcd</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>7000</integer>
+            <key>incomes</key>
+<integer>6000</integer>
+            <key>month</key>
+<string>Jun</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbce</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>6000</integer>
+            <key>incomes</key>
+<integer>7000</integer>
+            <key>month</key>
+<string>Jul</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbcf</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>4000</integer>
+            <key>incomes</key>
+<integer>9000</integer>
+            <key>month</key>
+<string>Sep</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbd0</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>3000</integer>
+            <key>incomes</key>
+<integer>10000</integer>
+            <key>month</key>
+<string>Oct</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbd1</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>5000</integer>
+            <key>incomes</key>
+<integer>8000</integer>
+            <key>month</key>
+<string>Ago</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbd2</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>2000</integer>
+            <key>incomes</key>
+<integer>11000</integer>
+            <key>month</key>
+<string>Nov</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbd3</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>1000</integer>
+            <key>incomes</key>
+<integer>12000</integer>
+            <key>month</key>
+<string>Dic</string>
+            <key>id</key>
+<string>5819d095e2fba803003ffbd4</string>
+        </dict>
+        <dict>
+            <key>outcomes</key>
+<integer>0</integer>
+            <key>incomes</key>
+<integer>13000</integer>
+            <key>month</key>
+<string>Jan-2</string>
+            <key>id</key>
+<string>5822f38fad32e40400e17bae</string>
+        </dict>
+	</array>
+</dict>
+</plist>
